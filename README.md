@@ -42,7 +42,7 @@ All implementation details can be found in the Jupyter Notebook:
 - Performance metrics (IoU, precision, recall, F1-score) are calculated and displayed.
 - Visual comparison of ground-truth vs. predicted masks included.
 
-See **Section 4** in the notebook for detailed charts and tables.
+![image](https://github.com/user-attachments/assets/5c09c1f9-70d6-45cd-bb02-fbc033ced5ed)
 
 ---
 
